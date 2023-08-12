@@ -1,0 +1,92 @@
+.button{
+    background-color: black;
+    width: 100px;
+    border-radius: 32px;
+    color: white;
+    display: flex; 
+    line-height: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.button1{
+    margin-left: auto;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+.surati{
+    margin: 20px;
+}
+.div5{
+    width: 50%;
+    margin-left: 400px;
+    margin-right: auto;
+}
+.header{
+    display: flex;
+    width: 100%;
+} 
+.chamonatvali{
+    display: inline-block;
+    color: #000000;
+    margin: 20px;
+    margin-left: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.img{
+    width: 490px;
+    margin-right: 300px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
+.p{
+    font-family: 'Inter', sans-serif;
+    font-size: 72px;
+    color: #000000;
+    width: 600px;
+    font-weight: bolder;
+    margin-top: 140px;
+}
+.satauri{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    width: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer{
+        background-color: black;
+        color: white;
+        width: 100%;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+}
+.fdiv{
+    margin: 60px;
+    display: flex;
+}
+.footerdiv{
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: 'Inter', sans-serif;
+}
+.button3{
+    margin: 20px;
+} 
+.div{
+    margin-bottom: 16px;
+    color: lightgrey;
+}
+.div3{
+    margin-bottom: 16px;
+    width: 260px;
+    color: gray;
+}
+.divh{
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.div2{
+    margin-top: 16px;
+}
